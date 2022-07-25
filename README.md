@@ -1,2 +1,2 @@
-# bb-desktop-release
+# sp-desktop-release
 Public releases
