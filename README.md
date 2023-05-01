@@ -1,2 +1,1 @@
-# sp-desktop-release
-Public releases
+# Stashpad
